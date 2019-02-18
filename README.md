@@ -1,3 +1,5 @@
+PLEASE NOTE THIS IS VERY MUCH A WORK IN PROGRESS AND THE CODE IS FAR FROM OPTIMAL  
+  
 This is my sudoku solver and generator written in C#.  Any puzzle with a size greater than 9x9 could take awhile to solve.  
   
 Creating a readable Sudoku:  
